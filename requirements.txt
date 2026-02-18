@@ -1,0 +1,5 @@
+torch
+transformers==4.40.2
+streamlit
+safetensors
+sentencepiece
