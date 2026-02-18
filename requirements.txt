@@ -1,5 +1,6 @@
 torch
-transformers==4.40.2
+transformers==4.44.0
+tokenizers==0.21.0
 streamlit
 safetensors
 sentencepiece
